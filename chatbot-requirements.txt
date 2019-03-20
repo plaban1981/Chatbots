@@ -1,0 +1,9 @@
+Requirements :
+
+1. Python (latest preferred ) 
+
+2. ChatterBot ( pip install chatterbot )
+
+3. Chatterbot- Corpus ( https://github.com/gunthercox/chatterbot-corpus )
+
+4. Anaconda ( https://www.anaconda.com/download/ )
